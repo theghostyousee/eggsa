@@ -41,7 +41,6 @@ body{
     background-position-x: initial;
     background-position-y: initial;
     background-size: initial;
-    background: rgb(157, 148, 25);
     background-attachment: initial;
     background-origin: initial;
     background-clip: initial;
@@ -50,7 +49,7 @@ body{
     position: relative;
     flex-direction: column;
     font-family: 'Poppins', sans-serif;
-    background-color: #FFE19A;
+    background-color: #49a8ce;
     align-items: center;
     opacity: 1;
 }
@@ -107,7 +106,7 @@ header .logo button{
     min-height: 30px;
     cursor: pointer;
     min-width: 130px;
-    color: #FFE19A;
+    color: #178cbb;
     justify-content: center;
     align-items: center;
     background-color: white;
@@ -212,7 +211,7 @@ main{
     width: 24%;
     font-size: min(calc(12 * var(--res)), 12px);
     border-radius: 12px;
-    border: 2px solid #FFE19A;
+    border: 2px solid #178cbb;
     min-height: 30px;
     cursor: pointer;
     min-width: 20px;
@@ -240,12 +239,12 @@ main{
     min-height: 30px;
     cursor: pointer;
     min-width: 110px;
-    color: #2d344ae6;
+    color: #fdfdfde6;
     font-weight: 600;
     text-align: center;
     justify-content: center;
     align-items: center;
-    background: #FFE19A;
+    background: #178cbb;
 }
 
 
@@ -348,7 +347,7 @@ main{
     min-width: 110px;
     color: #2d344ad3;
     font-weight: 600;
-    background: #ECB941; 
+    background: #178cbb; 
 }
 .right{
     display: flex;
@@ -416,14 +415,14 @@ main{
     font-weight: 600;
     padding-left: 0.8rem;
     color: #2d344aed;
-    border: 4px solid #fcc74c96;
+    border: 4px solid #178cbb;
     outline: none;
 
 }
 
 #max {
     position: absolute;
-    background: #ECB941;
+    background: #178cbb;
     border: none;
     right: 0;
     cursor: pointer;
@@ -470,7 +469,7 @@ input:focus {
     text-align: center;
     justify-content: center;
     align-items: center;
-    background: #ECB941; 
+    background: #178cbb; 
 }
 
 
